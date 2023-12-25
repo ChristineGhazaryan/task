@@ -1,0 +1,30 @@
+.section1{
+    width: 100%;
+    min-height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section1_1 {
+    width: 200px;
+    min-height: 300px;
+    /* border: 1px solid; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.section1_2 {
+    width: 250px;
+    min-height: 300px;
+}
+
+.item{
+    display: flex;
+}
+
+.item>img{
+        width: 50px;
+}
